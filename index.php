@@ -2,6 +2,6 @@
 
 echo "Openshift S2I Demo";
 
-echo "Trigger Added2";
+echo "Trigger Added3";
 
 ?>
